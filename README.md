@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/94721925?v=4" width="150" style="border-radius: 50%;" alt="Andrey" />
   
   # 👋 Olá, eu sou o Andrey!
   
@@ -23,11 +22,13 @@ Sou apaixonado por tecnologia e desenvolvimento de software! Estou sempre em bus
 <div align="center">
 
 ### Backend
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Frontend
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -52,9 +53,14 @@ Este repositório contém o código do meu site portfólio pessoal, desenvolvido
 ### 📁 Estrutura do Projeto
 
 ```
-📦 html-generation
+📦 portfolio
  ┣ 📂 assets
+ ┃ ┣ 📂 css
+ ┃ ┃ ┗ 📄 style.css
  ┃ ┗ 📂 img
+ ┃   ┣ 📄 github.svg
+ ┃   ┣ 📄 instagram.svg
+ ┃   ┗ 📄 linkedin.svg
  ┣ 📄 index.html
  ┣ 📄 contato.html
  ┗ 📄 README.md
@@ -63,6 +69,7 @@ Este repositório contém o código do meu site portfólio pessoal, desenvolvido
 ### ▶️ Como Executar
 
 1. Clone o repositório:
+
 ```bash
 git clone https://github.com/andreyrsy/html-generation.git
 ```
